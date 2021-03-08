@@ -9,7 +9,7 @@ const axolotlTheme = createMuiTheme({
       main: '#A0DDDE',
     },
     secondary: {
-      main: '#729D9E',
+      main: '#000000',
     },
     background: {
       default: '#F2FFE3',

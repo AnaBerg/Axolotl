@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
   text: {
     flexDirection: 'column',
     marginLeft: 50,
-    height: '80vh',
+    height: 'calc(100vh - 90px)',
   },
   card: {
     width: '70%',
